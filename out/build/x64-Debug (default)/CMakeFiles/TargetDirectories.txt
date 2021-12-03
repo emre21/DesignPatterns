@@ -1,0 +1,8 @@
+C:/Users/TOSHIBA/source/repos/DesignPatterns/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/TOSHIBA/source/repos/DesignPatterns/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/TOSHIBA/source/repos/DesignPatterns/out/build/x64-Debug (default)/ObservablePattern/CMakeFiles/ObservablePattern.dir
+C:/Users/TOSHIBA/source/repos/DesignPatterns/out/build/x64-Debug (default)/ObservablePattern/CMakeFiles/edit_cache.dir
+C:/Users/TOSHIBA/source/repos/DesignPatterns/out/build/x64-Debug (default)/ObservablePattern/CMakeFiles/rebuild_cache.dir
+C:/Users/TOSHIBA/source/repos/DesignPatterns/out/build/x64-Debug (default)/SingletonPattern/CMakeFiles/edit_cache.dir
+C:/Users/TOSHIBA/source/repos/DesignPatterns/out/build/x64-Debug (default)/SingletonPattern/CMakeFiles/SingletonPattern.dir
+C:/Users/TOSHIBA/source/repos/DesignPatterns/out/build/x64-Debug (default)/SingletonPattern/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,24 @@
+# ninja log v5
+2	1138	660161584	ObservablePattern/CMakeFiles/ObservablePattern.dir/ObservablePattern.cpp.obj	1822da9e7a67d9a6
+9	1200	660161585	ObservablePattern/CMakeFiles/ObservablePattern.dir/main.cpp.obj	fcf88d8480456de
+1201	2447	660161586	ObservablePattern/ObservablePattern.exe	d6622d13cdfe38e5
+1	796	660172597	ObservablePattern/CMakeFiles/ObservablePattern.dir/ObservablePattern.cpp.obj	1822da9e7a67d9a6
+1	701	660172656	ObservablePattern/CMakeFiles/ObservablePattern.dir/ObservablePattern.cpp.obj	1822da9e7a67d9a6
+1	734	660172670	ObservablePattern/CMakeFiles/ObservablePattern.dir/ObservablePattern.cpp.obj	1822da9e7a67d9a6
+6	790	660172671	ObservablePattern/CMakeFiles/ObservablePattern.dir/main.cpp.obj	fcf88d8480456de
+791	1350	660172671	ObservablePattern/ObservablePattern.exe	d6622d13cdfe38e5
+1	758	660172717	ObservablePattern/CMakeFiles/ObservablePattern.dir/ObservablePattern.cpp.obj	1822da9e7a67d9a6
+6	796	660172718	ObservablePattern/CMakeFiles/ObservablePattern.dir/main.cpp.obj	fcf88d8480456de
+797	1059	660172718	ObservablePattern/ObservablePattern.exe	d6622d13cdfe38e5
+1	647	660172814	ObservablePattern/CMakeFiles/ObservablePattern.dir/main.cpp.obj	fcf88d8480456de
+648	955	660172814	ObservablePattern/ObservablePattern.exe	eb7f64eaa84ebb3d
+1	1092	660172985	ObservablePattern/CMakeFiles/ObservablePattern.dir/main.cpp.obj	fcf88d8480456de
+1092	2019	660172986	ObservablePattern/ObservablePattern.exe	eb7f64eaa84ebb3d
+1	760	660173019	ObservablePattern/CMakeFiles/ObservablePattern.dir/main.cpp.obj	fcf88d8480456de
+761	1065	660173020	ObservablePattern/ObservablePattern.exe	eb7f64eaa84ebb3d
+0	646	660173080	ObservablePattern/CMakeFiles/ObservablePattern.dir/main.cpp.obj	fcf88d8480456de
+647	914	660173080	ObservablePattern/ObservablePattern.exe	eb7f64eaa84ebb3d
+1	788	660197882	SingletonPattern/CMakeFiles/SingletonPattern.dir/main.cpp.obj	951b16ea927c0132
+788	1710	660197883	SingletonPattern/SingletonPattern.exe	d2f699b72aa65c76
+1	615	660198131	SingletonPattern/CMakeFiles/SingletonPattern.dir/main.cpp.obj	951b16ea927c0132
+616	1162	660198132	SingletonPattern/SingletonPattern.exe	d2f699b72aa65c76

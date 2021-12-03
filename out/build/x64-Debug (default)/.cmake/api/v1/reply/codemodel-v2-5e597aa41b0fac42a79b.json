@@ -1,0 +1,98 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "ObservablePattern",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ObservablePattern",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "SingletonPattern",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "SingletonPattern",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "DesignPatterns",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "ObservablePattern::@de95739c43bfc83e29de",
+					"jsonFile" : "target-ObservablePattern-Debug-24187ab58961dd589ef4.json",
+					"name" : "ObservablePattern",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "SingletonPattern::@a7b6d218c48cd8ef7b71",
+					"jsonFile" : "target-SingletonPattern-Debug-423e3b1f57ff01142e60.json",
+					"name" : "SingletonPattern",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/TOSHIBA/source/repos/DesignPatterns/out/build/x64-Debug (default)",
+		"source" : "C:/Users/TOSHIBA/source/repos/DesignPatterns"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
